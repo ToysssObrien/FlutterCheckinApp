@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "619077472416",
+    "project_id": "checkinrubv2",
+    "storage_bucket": "checkinrubv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619077472416:android:5f36bf25a33fe4fd16f9c5",
+        "android_client_info": {
+          "package_name": "com.example.checkin_rubv2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChRNUgbnHP08d87aEl6BDIZ9bKqjHvuuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
